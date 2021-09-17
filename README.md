@@ -10,7 +10,8 @@
 ### I have loaded the dataset from sklearn.datasets. I used deep learning model for predicting whether the cancer is Malignant or Benign using neural networks
 
 
- ![NeuralNetwork](https://user-images.githubusercontent.com/74699753/133763992-d9e7ab4a-5bf2-4ddf-ad0c-93e525c93586.png)
+![DeepLearningLayer](https://user-images.githubusercontent.com/74699753/133764933-63ab6894-8289-4d20-ac48-1d9a4af8dd63.png)
+
  
 ### The model consist of input layer, some hidden layers and lastly the output layer of neural networks. The output layer will be our result (predicted value) that whether the cancer  is Malignant or Benign.
 
