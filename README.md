@@ -13,5 +13,5 @@
 ![DeepLearningLayer](https://user-images.githubusercontent.com/74699753/133764933-63ab6894-8289-4d20-ac48-1d9a4af8dd63.png)
 
  
-### The model consist of input layer, some hidden layers and lastly the output layer of neural networks. The output layer will be our result (predicted value) that whether the cancer  is Malignant or Benign.
+### The model consists of input layer with single or multiple hidden layers and lastly the output layer of neural network. The output layer will be our result (predicted value) that whether the cancer  is Malignant or Benign.
 
